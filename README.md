@@ -1,2 +1,2 @@
 # history-thingy
-A school assignment
+A school assignment,
